@@ -466,7 +466,7 @@ a{
     .menu__list{
         display: none;
         position: absolute;
-        top: 120px;
+        top: 90px;
         left: 0;
         text-align: center;
         width: 100%;
